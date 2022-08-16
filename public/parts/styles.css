@@ -1,0 +1,8 @@
+.botonMenu{
+    background-color: #4b5259;
+    color: white;
+    margin: 2px;
+}
+.botonMenu:hover{
+    background-color: rgb(161, 108, 10);
+}
