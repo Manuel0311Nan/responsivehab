@@ -17,25 +17,25 @@ require_once(dirname(__FILE__) . '/head.php');
     </div>
 
         <div class="container">
-            <table class="table table-dark ">
+            <table class="table table-dark border-0">
   <tbody>
     <tr>
-      <td class="col-2 text-">Madrid</td>
-      <td class="col-2">Otto</td>
-      <td class="col-5">evento</td>
-      <td class="col-2">boton</td>
+      <td class="col-2 border-0">Madrid</td>
+      <td class="col-2 border-0">Otto</td>
+      <td class="col-5 border-0">evento</td>
+      <td class="col-2 border-0">boton</td>
     </tr>
     <tr>
-      <td class="col-2">Madrid</td>
-      <td class="col-2">Otto</td>
-      <td class="col-5">evento</td>
-      <td class="col-2">boton</td>
+      <td class="col-2 border-0">Madrid</td>
+      <td class="col-2 border-0">Otto</td>
+      <td class="col-5 border-0">evento</td>
+      <td class="col-2 border-0">boton</td>
     </tr>
     <tr>
-      <td class="col-2">Madrid</td>
-      <td class="col-2">Otto</td>
-      <td class="col-5">evento</td>
-      <td class="col-2">boton</td>
+      <td class="col-2 border-0">Madrid</td>
+      <td class="col-2 border-0">Otto</td>
+      <td class="col-5 border-0">evento</td>
+      <td class="col-2 border-0">boton</td>
     </tr>
   </tbody>
 </table>
